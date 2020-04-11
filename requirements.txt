@@ -1,0 +1,5 @@
+azure-functions
+Django
+django-storages[azure]
+Pillow
+pymysql
