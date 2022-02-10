@@ -30,7 +30,7 @@
     "jss-plugin-template": "^10.0.4",
     "material-components-web": "^5.1.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^3.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
